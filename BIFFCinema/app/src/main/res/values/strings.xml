@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">BIFF Cinema</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title1">20th Century Girl</string>
+    <string name="title2">A Cambodian Night\'s Dream</string>
+    <string name="title3">Aftersun</string>
+    <string name="title4">Autobiography</string>
+    <string name="title5"><![CDATA[Before, Now & Then]]></string>
+    <string name="title6">Broker</string>
+    <string name="title7">Decision to Leave</string>
+    <string name="title8">Everything Everywhere All At One</string>
+    <string name="title9">Holy Spider</string>
+    <string name="title10">Next Sohee</string>
+    <string name="title11">Return to Seoul</string>
+    <string name="title12">The Banshees of Inisherin</string>
+
+    <string name="director1">Bang Woo-ri</string>
+    <string name="director2">Guillaume Suon</string>
+    <string name="director3">Charlotte Wells</string>
+    <string name="director4">Makbul Mubarak</string>
+    <string name="director5">Kamila Andini</string>
+    <string name="director6">Hirokazu Kore-eda</string>
+    <string name="director7">Park Chan-wook</string>
+    <string name="director8">Daniel Kwan, Daniel Scheinert</string>
+    <string name="director9">Ali Abbasi</string>
+    <string name="director10">July Jung</string>
+    <string name="director11">Davy Chou</string>
+    <string name="director12">Martin McDonagh</string>
+
+    <string name="south_korea">South Korea</string>
+
+    <string name="synopsis1">A teen girl has her eyes set on a boy for her lovesick best friend. However, things become complicated when she falls in love and is forced to choose between love and friendship.</string>
+    <string name="synopsis2">A young man makes a living by selling drugs in a back alley in Paris. His mother visits him as a ghost. The world and time have changed, yet the connection between them is eternal.</string>
+    <string name="synopsis3">At a fading vacation resort, 11-year-old Sophie treasures rare time together with her loving and idealistic father, Calum. Twenty years later, Sophie’s tender recollections of their last holiday become a powerful and heartrending portrait of their relationship.</string>
+    <string name="synopsis4">A young man working as a housekeeper in an empty mansion. When its owner returns to start his mayoral election campaign, the young man bonds with him and defends him when his campaign is vandalized, setting off a chain of violence.</string>
+    <string name="synopsis5">Nana, a gentle, beautiful young woman, escapes a violent anti-communist purge. Afterwards she lives comfortably as the second wife of a rich Sundanese man but her past re-emerges in her dreams.</string>
+    <string name="synopsis6">When a young mother reconsiders abandoning her baby, she discovers a scheme selling foundlings for adoption.</string>
+    <string name="synopsis7">A detective investigating a man\'s death in the mountains ends up meeting and developing feelings for the dead man\'s mysterious wife in the course of his dogged sleuthing.</string>
+    <string name="synopsis8">When an interdimensional rupture unravels reality, an unlikely hero must channel her newfound powers to fight bizarre and bewildering dangers from the multiverse as the fate of the world hangs in the balance.</string>
+    <string name="synopsis9">A journalist descends into the dark underbelly of the Iranian holy city of Mashhad as she investigates the serial killings of sex workers by the so-called Spider Killer, who believes he is cleansing the streets of sinners.</string>
+    <string name="synopsis10">High school student Sohee starts training at a call center, but she faces the pressure of a greedy company, which leads to her death. Detective Oh Yu-jin, who has something in common with Sohee, begins to follow clues to reveal the truth.</string>
+    <string name="synopsis11">A 25-year-old French woman returns to South Korea, where she was born, for the very first time. She decides to look for her biological parents, but her journey takes a surprising turn.</string>
+    <string name="synopsis12">On a remote island off the coast of Ireland, Pádraic is devastated when his buddy Colm suddenly puts an end to their lifelong friendship. With help from his sister and a troubled young islander, Pádraic sets out to repair the damaged relationship by any means necessary. However, as Colm\'s resolve only strengthens, he soon delivers an ultimatum that leads to shocking consequences.</string>
+
+    <string name="coming_of_age">Coming of Age</string>
+    <string name="_199_min">199 min</string>
+    <string name="casts">Casts</string>
+    <string name="credit">Credit</string>
+    <string name="director">Director</string>
+    <string name="bang_woo_ri">Bang Woo-ri</string>
+    <string name="cast">Cast</string>
+
+    <string name="kim_you_jung_byeon_woo_seok_roh_yoon_seo_park_jung_woo">Kim You-jung, Byeon Woo-seok, Roh Yoon-seo, Park Jung-woo</string>
+    <string name="production">Production</string>
+    <string name="yong_film_inc">Yong Film Inc.</string>
+    <string name="world_sales">World Sales</string>
+    <string name="netflix">Netflix</string>
+
+    <string name="code1">30U8InFm7gFAVdmfY4f8lZJDF</string>
+    <string name="date">Date</string>
+    <string name="date1">Tuesday, 21 Sep 2023</string>
+    <string name="time">Time</string>
+    <string name="time1">2:00 PM</string>
+    <string name="room">Room</string>
+    <string name="red">Red</string>
+    <string name="seat">Seat</string>
+    <string name="seat1">D5</string>
+    <string name="your_tickets">Your tickets</string>
+</resources>
